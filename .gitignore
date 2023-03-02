@@ -1,0 +1,6 @@
+*.auto.tfvars
+*.zip
+/bin/main
+*.lock.hcl
+*.tfstate*
+.terraform
